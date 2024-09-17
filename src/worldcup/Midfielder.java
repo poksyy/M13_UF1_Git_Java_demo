@@ -2,7 +2,7 @@
 package worldcup;
 
 public class Midfielder {
-	private String vision;
+	private boolean vision; // Fix attribute String to boolean
 
 	public void organize() {
 		System.out.println("organizing");
