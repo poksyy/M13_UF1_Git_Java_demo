@@ -17,7 +17,7 @@ public class Team {
     
     public void play(){
 
-            System.out.println("playing");
+            System.out.println("playing football");
 
         }
 
