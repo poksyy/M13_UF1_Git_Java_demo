@@ -1,7 +1,7 @@
 
 package worldcup;
 
-public class Midfielder {
+public class Midfielder extends Player{
 	private boolean vision; // Fix attribute String to boolean
 
 	public void organize() {

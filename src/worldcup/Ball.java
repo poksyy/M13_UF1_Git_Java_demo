@@ -14,8 +14,8 @@ public class Ball {
     /**
      *  Sets the ball in motion
      */
-    public void move(){
-        System.out.println("moving");
+    public void spin(){
+        System.out.println("spinning");
     }
 
 }
