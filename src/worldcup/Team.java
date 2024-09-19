@@ -16,7 +16,7 @@ public class Team {
     
     
     public void play(){
-            System.out.println("playing");
+            System.out.println("play");
         }
 
     public void attack(){
