@@ -1,13 +1,14 @@
 package worldcup;
 
-public class Forward {
-    private boolean killer;
+public class Forward extends Player {
+	private boolean killer;
 
-    public void drible(){
+	public void drible() {
 
-    }
-    public void kick(Ball ball){
+	}
 
-    }
+	public void kick(Ball ball) {
+
+	}
 
 }
