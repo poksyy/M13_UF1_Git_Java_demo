@@ -11,8 +11,7 @@ import java.util.ArrayList;
  */
 public class Game {
 
-    //TODO to uncomment when class Field is created
-    //Field field;
+    Field field;
     int size;
     ArrayList<Team> teams;
 
